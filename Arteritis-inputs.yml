@@ -1,0 +1,102 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/arteritis-polyarthritis---secondary.py
+inputModule3:
+  class: File
+  path: python/arteritis-arteriolitis---secondary.py
+inputModule4:
+  class: File
+  path: python/arteritis-periaortitis---secondary.py
+inputModule5:
+  class: File
+  path: python/arteritis-takayasu---secondary.py
+inputModule6:
+  class: File
+  path: python/arteritis-polyangiitis---secondary.py
+inputModule7:
+  class: File
+  path: python/mesenteric-arteritis---secondary.py
+inputModule8:
+  class: File
+  path: python/arteritis-edema---secondary.py
+inputModule9:
+  class: File
+  path: python/arteritis-system---secondary.py
+inputModule10:
+  class: File
+  path: python/aortopulmonary-arteritis---secondary.py
+inputModule11:
+  class: File
+  path: python/cryoglobulinaemic-arteritis---secondary.py
+inputModule12:
+  class: File
+  path: python/cardiomyopathy-arteritis---secondary.py
+inputModule13:
+  class: File
+  path: python/arteritis-gangrene---secondary.py
+inputModule14:
+  class: File
+  path: python/arteritis-obliteran---secondary.py
+inputModule15:
+  class: File
+  path: python/arteritis-deforman---secondary.py
+inputModule16:
+  class: File
+  path: python/endarteritis---secondary.py
+inputModule17:
+  class: File
+  path: python/arteritis-aneurysm---secondary.py
+inputModule18:
+  class: File
+  path: python/segmental-arteritis---secondary.py
+inputModule19:
+  class: File
+  path: python/thromboarteritis---secondary.py
+inputModule20:
+  class: File
+  path: python/arteritis-benign---secondary.py
+inputModule21:
+  class: File
+  path: python/coronary-arteritis---secondary.py
+inputModule22:
+  class: File
+  path: python/periarteritis---secondary.py
+inputModule23:
+  class: File
+  path: python/arterial-arteritis---secondary.py
+inputModule24:
+  class: File
+  path: python/arteritis-window---secondary.py
+inputModule25:
+  class: File
+  path: python/arteritis-coarctation---secondary.py
+inputModule26:
+  class: File
+  path: python/allergic-arteritis---secondary.py
+inputModule27:
+  class: File
+  path: python/retinal-arteritis---secondary.py
+inputModule28:
+  class: File
+  path: python/renal-arteritis---secondary.py
+inputModule29:
+  class: File
+  path: python/arteritis-encephalitis---secondary.py
+inputModule30:
+  class: File
+  path: python/lymphomatoid-arteritis---secondary.py
+inputModule31:
+  class: File
+  path: python/idiopathic-arteritis---secondary.py
+inputModule32:
+  class: File
+  path: python/umbilical-arteritis---secondary.py
+inputModule33:
+  class: File
+  path: python/arteritis-isolated---secondary.py
+inputModule34:
+  class: File
+  path: python/output-cases.py
